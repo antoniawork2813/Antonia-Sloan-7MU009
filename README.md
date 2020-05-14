@@ -1,1 +1,2 @@
-# Antonia-Sloan-7MU009
+# 7MU009 Music Computing
+**Antonia Sloan**
